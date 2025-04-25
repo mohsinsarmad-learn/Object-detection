@@ -1,6 +1,8 @@
 # Virtual env
 venv/
 .venv/
+# Mdoel
+.yolov5su.pt
 
 # Byte-compiled / cache
 __pycache__/
