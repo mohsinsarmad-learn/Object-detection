@@ -2,7 +2,7 @@
 venv/
 .venv/
 # Mdoel
-.yolov5su.pt
+server/yolov5su.pt
 
 # Byte-compiled / cache
 __pycache__/
